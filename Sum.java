@@ -3,6 +3,6 @@ public class Sum{
         int a = 10;
         int b = 12;
 
-        System.out.println(a+b);
+        System.out.println("Sum of both the number"+(a+b));
     }
 }
